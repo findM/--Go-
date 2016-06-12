@@ -26,7 +26,7 @@ func insertion_sort(unsorted []int) {
 	fmt.Println(unsorted)
 }
 
-//桶排序
+//桶排序或者箱排序
 func bucket_sort(unsorted []int, max int) {
 	fmt.Println("排序前")
 	fmt.Println(unsorted)
